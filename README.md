@@ -1,10 +1,10 @@
-# 🔬 Plankton Detection using YOLOv8
+git #  Plankton Detection using YOLOv8
 
 This project detects plankton in microscope images using a custom trained YOLOv8 object detection model and a Streamlit web application.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Detect plankton from microscope images
 - Web interface built with Streamlit
@@ -13,7 +13,7 @@ This project detects plankton in microscope images using a custom trained YOLOv8
 
 ---
 
-## 🧠 Model
+##  Model
 
 The detection model was trained using YOLOv8 on a plankton microscopy dataset.
 
@@ -22,7 +22,7 @@ Framework used:
 
 ---
 
-## 🖥️ Run the App Locally
+##  Run the App Locally
 
 Install dependencies
 
@@ -38,7 +38,7 @@ streamlit run app.py
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 plankton-detection-ai
@@ -51,7 +51,7 @@ plankton-detection-ai
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add species analytics
 - Support video detection
